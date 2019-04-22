@@ -4,7 +4,7 @@ import pymem.process
 import time
 import sys
 
-dwForceJump = (0x5186978)
+dwForceJump = (0x5186978) #offsets updated 4/21/19
 dwLocalPlayer = (0xCD2764)
 m_fFlags = (0x104)
 
